@@ -1,5 +1,5 @@
 # FutureTechAlgorithmsData
-This repository (will) host code for obtaining the datasets that are associated with the AlgorithmsWiki project and the Algorithms in Use project.
+This repository (will) host code for obtaining and processing data associated with the AlgorithmsWiki project, especially various projects around the usage of algorithms.
 
 You can expect examples of the datasets to be available imminently.
 
